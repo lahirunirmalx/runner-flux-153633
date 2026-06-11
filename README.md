@@ -1,2 +1,3 @@
 # runner-flux-153633
-Side project
+
+Experimental module — not yet stable.
